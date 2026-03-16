@@ -1,0 +1,69 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "SAMSUNG Galaxy S25 5G",
+      "description": "The Samsung Galaxy S25 5G is a premium smartphone featuring a 6.2-inch Dynamic AMOLED 2X display",
+      "price": 72000,
+      "thumbnail": "/assets/product/product-img1.jpeg",
+      "quantity": 1
+    },
+    {
+      "id": 2,
+      "title": "iPhone 17",
+      "description": "The Apple iPhone 17 is a flagship smartphone featuring a 6.3-inch Super Retina XDR 120Hz ProMotion display",
+      "price": 85000,
+      "thumbnail": "/assets/product/product-img5.jpeg",
+      "quantity": 1
+    },
+    {
+      "id": 3,
+      "title": "SAMSUNG Galaxy S25 5G",
+      "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+      "price": 72000,
+      "category": "smartphones",
+      "thumbnail": "/assets/product/product-img1.jpeg",
+      "quantity": 1
+    },
+    {
+      "id": 4,
+      "title": "iPhone 17",
+      "description": "The Apple iPhone 17 is a flagship smartphone featuring a 6.3-inch Super Retina XDR 120Hz ProMotion display",
+      "price": 85000,
+      "thumbnail": "/assets/product/product-img5.jpeg",
+      "quantity": 1
+    },
+    {
+      "id": 5,
+      "title": "SAMSUNG Galaxy S25 5G",
+      "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+      "price": 72000,
+      "thumbnail": "/assets/product/product-img1.jpeg",
+      "quantity": 1
+    },
+    {
+      "id": 6,
+      "title": "iPhone 17",
+      "description": "The Apple iPhone 17 is a flagship smartphone featuring a 6.3-inch Super Retina XDR 120Hz ProMotion display",
+      "price": 85000,
+      "thumbnail": "/assets/product/product-img5.jpeg",
+      "quantity": 1
+    },
+    {
+      "id": 7,
+      "title": "SAMSUNG Galaxy S25 5G",
+      "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+      "price": 72000,
+      "thumbnail": "/assets/product/product-img1.jpeg",
+      "quantity": 1
+    },
+    {
+      "id": 6,
+      "title": "iPhone 17",
+      "description": "The Apple iPhone 17 is a flagship smartphone featuring a 6.3-inch Super Retina XDR 120Hz ProMotion display",
+      "price": 85000,
+      "thumbnail": "/assets/product/product-img5.jpeg",
+      "quantity": 1
+    }
+  ]
+}
