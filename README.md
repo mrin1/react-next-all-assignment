@@ -20,7 +20,7 @@ A comprehensive CRUD (Create, Read, Update, Delete) application designed to mana
 * **Key Features:** Form validation, state updates, responsive data grid.
 
 > **Preview:**
-> ![Student Management App Preview](https://via.placeholder.com/800x400?text=Student+Management+App+Screenshot) *(Replace URL with your actual image path)*
+> ![Student Management App Preview](https://student-management-system-crud.vercel.app/) *(Replace URL with your actual image path)*
 
 ---
 
