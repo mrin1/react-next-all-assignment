@@ -1,101 +1,195 @@
 # 🚀 React & Next.js Assignments Portfolio
 
-Welcome to the **React & Next.js Assignments** repository! This collection showcases a series of front-end projects and assignments built using React, Next.js, and TypeScript. Each project demonstrates different core concepts—from basic component rendering to advanced global state management, CRUD operations, and interactive UI/UX design.
+Welcome to the **React & Next.js Assignments Repository**.
 
-## 🛠️ Tech Stack
-* **Frameworks/Libraries:** React.js, Next.js
-* **Language:** TypeScript, JavaScript
-* **Styling:** CSS, Material-UI (MUI) / Tailwind (Project dependent)
-* **State Management:** Context API, useReducer, Local State
+This repository contains a collection of **front-end projects and assignments** built using **React.js, Next.js, and TypeScript**. Each project focuses on different frontend development concepts — from **basic component structure** to **advanced state management, CRUD operations, and interactive UI design**.
+
+These projects demonstrate practical knowledge of **modern React development and real-world application features**.
 
 ---
 
-## 📂 Projects Overview
+# 🛠️ Tech Stack
 
-Below is the directory of all the projects included in this repository. 
+**Frameworks & Libraries**
+- React.js
+- Next.js
 
-### 1. Student Management CRUD App (Assignment 3)
-A comprehensive CRUD (Create, Read, Update, Delete) application designed to manage student records efficiently. It features dynamic form handling, data validation, and responsive data tables to track student information.
-* **Live Demo:** (https://student-management-system-crud.vercel.app/)
-* **Key Features:** Form validation, state updates, responsive data grid.
+**Languages**
+- JavaScript
+- TypeScript
 
-> **Preview:**
-> ![Student Management App Preview] (https://via.placeholder.com/800x400?text=Shopping+Cart+Screenshot)
+**Styling**
+- CSS
+- Material UI (MUI)
+- Tailwind CSS *(used in some projects)*
 
----
-
-### 2. Shopping Cart (Context + Reducer)
-A scalable e-commerce shopping cart feature built strictly using React's Context API and `useReducer` hook. This project demonstrates how to handle complex global state without relying on external libraries like Redux.
-* **Live Demo:** https://shopping-cart-context-reducer-assig-seven.vercel.app/
-* **Key Features:** Add/remove items, dynamic total calculation, cart state persistence.
-
-> **Preview:**
-> ![Shopping Cart Preview](https://via.placeholder.com/800x400?text=Shopping+Cart+Screenshot) 
+**State Management**
+- React Context API
+- useReducer
+- Local State (useState)
 
 ---
 
-### 3. Quiz App
-An interactive and engaging quiz application. It features dynamic question rendering, real-time score tracking, conditional UI feedback based on user answers, and a clean results summary screen.
-* **Live Demo:** https://quiz-app-assignment-5.vercel.app/
-* **Key Features:** State-driven question progression, score calculation, interactive UI.
+# 📂 Projects Overview
 
-> **Preview:**
-> ![Quiz App Preview](https://via.placeholder.com/800x400?text=Quiz+App+Screenshot) 
+Below are the main projects included in this repository.
 
 ---
 
-### 4. Multi-Step Form
-A user-friendly, multi-step wizard form designed to break down complex data entry into digestible chunks. It showcases advanced form state management, step-by-step validation, and smooth transitions between form sections.
-* **Live Demo:** https://multi-step-form-assignment4.vercel.app/
-* **Key Features:** Step navigation, data retention between steps, final payload submission.
+## 1️⃣ Student Management CRUD App (Assignment 3)
 
-> **Preview:**
-> ![Multi-Step Form Preview](https://via.placeholder.com/800x400?text=Multi-Step+Form+Screenshot) 
+A complete **Student Management System** that performs full **CRUD operations**.  
+Users can add, update, view, and delete student records through a responsive interface.
 
----
+### Key Features
+- Add new student records
+- Update student information
+- Delete student data
+- Form validation
+- Dynamic student table
+- Responsive UI design
 
-### 5. Notification System
-A dynamic notification and toast alert system built to handle user updates, success/error messages, and system alerts. It focuses on modular component design and seamless integration into larger layouts.
-* **Live Demo:** https://notification-system-assignment-5.vercel.app/
-* **Key Features:** Auto-dismissing alerts, customizable notification types, queue management.
+### Live Demo
+https://student-management-system-crud.vercel.app/
 
-> **Preview:**
-> ![Notification System Preview](https://via.placeholder.com/800x400?text=Notification+System+Screenshot) 
-
----
-
-### 6. Assignment 6
-A complex front-end assignment focused on advanced routing, API data fetching, and rendering dynamic content. This project ties together multiple React/Next.js concepts to create a cohesive web experience.
-* **Live Demo:** https://assignment6-qsa2.vercel.app/
-* **Key Features:** Data fetching, dynamic routing, component lifecycle management.
-
-> **Preview:**
-> ![Assignment 6 Preview](https://via.placeholder.com/800x400?text=Assignment+6+Screenshot) 
+### Preview
+![Student Management App](https://via.placeholder.com/800x400?text=Student+Management+CRUD+App)
 
 ---
 
-### 7. Assignment 1
-A foundational project focusing on the building blocks of React and Next.js. It demonstrates proper component structuring, props passing, and initial UI layout design.
-* **Live Demo:** https://assignment1-rnse.vercel.app/
+## 2️⃣ Shopping Cart (Context + useReducer)
 
-> **Preview:**
-> ![Assignment 1 Preview](https://via.placeholder.com/800x400?text=Assignment+1+Screenshot)
+A scalable **Shopping Cart application** implemented using **React Context API and useReducer** for global state management.
+
+This project demonstrates how complex state can be handled **without Redux**.
+
+### Key Features
+- Add items to cart
+- Remove items from cart
+- Update product quantity
+- Dynamic total price calculation
+- Global state management
+
+### Live Demo
+https://shopping-cart-context-reducer-assig-seven.vercel.app/
+
+### Preview
+![Shopping Cart](https://via.placeholder.com/800x400?text=Shopping+Cart+Application)
 
 ---
 
-### 8. Assignment 2
-An advanced continuation of component building, integrating state management and event handling to create a more interactive user interface.
-* **Live Demo:** https://assignment2-oeld.vercel.app/
+## 3️⃣ Quiz Application
 
-> **Preview:**
-> ![Assignment 2 Preview](https://via.placeholder.com/800x400?text=Assignment+2+Screenshot) 
+An interactive **Quiz Application** where users answer questions and receive a final score.
+
+### Key Features
+- Dynamic question rendering
+- Score calculation
+- Answer validation
+- Real-time UI feedback
+- Final result summary
+
+### Live Demo
+https://quiz-app-assignment-5.vercel.app/
+
+### Preview
+![Quiz App](https://via.placeholder.com/800x400?text=Quiz+Application)
 
 ---
 
-## 💻 Getting Started
+## 4️⃣ Multi-Step Form
 
-To run any of these projects locally, follow these steps:
+A **multi-step form wizard** that divides complex forms into smaller steps for better user experience.
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/mrin1/react-next-all-assignment.git](https://github.com/mrin1/react-next-all-assignment.git)
+### Key Features
+- Step-by-step form navigation
+- Form validation
+- Data persistence between steps
+- Final submission screen
+
+### Live Demo
+https://multi-step-form-assignment4.vercel.app/
+
+### Preview
+![Multi Step Form](https://via.placeholder.com/800x400?text=Multi+Step+Form)
+
+---
+
+## 5️⃣ Notification System
+
+A reusable **Notification / Toast Alert System** used to display success, error, and information messages.
+
+### Key Features
+- Auto dismiss notifications
+- Multiple notification types
+- Reusable notification components
+- Queue based alerts
+
+### Live Demo
+https://notification-system-assignment-5.vercel.app/
+
+### Preview
+![Notification System](https://via.placeholder.com/800x400?text=Notification+System)
+
+---
+
+## 6️⃣ Assignment 6
+
+A project demonstrating advanced **React / Next.js concepts** including routing and data fetching.
+
+### Key Features
+- Dynamic routing
+- API data fetching
+- Component lifecycle handling
+- Modular component design
+
+### Live Demo
+https://assignment6-qsa2.vercel.app/
+
+### Preview
+![Assignment 6](https://via.placeholder.com/800x400?text=Assignment+6)
+
+---
+
+## 7️⃣ Assignment 1
+
+A foundational project that demonstrates **basic React and Next.js concepts**.
+
+### Concepts Covered
+- Component structure
+- Props usage
+- Basic UI layout
+
+### Live Demo
+https://assignment1-rnse.vercel.app/
+
+### Preview
+![Assignment 1](https://via.placeholder.com/800x400?text=Assignment+1)
+
+---
+
+## 8️⃣ Assignment 2
+
+A continuation of React fundamentals focusing on **state management and UI interaction**.
+
+### Concepts Covered
+- React state management
+- Event handling
+- Dynamic UI updates
+
+### Live Demo
+https://assignment2-oeld.vercel.app/
+
+### Preview
+![Assignment 2](https://via.placeholder.com/800x400?text=Assignment+2)
+
+---
+
+# 💻 Getting Started
+
+Follow these steps to run the projects locally.
+
+### 1️⃣ Clone the repository
+
+```bash
+git clone https://github.com/mrin1/react-next-all-assignment.git
