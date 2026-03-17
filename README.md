@@ -36,7 +36,7 @@ Below are the main projects included in this repository.
 
 ---
 
-## 1️⃣ Student Management CRUD App (Assignment 3)
+## 1️⃣ Student Management CRUD App
 
 A complete **Student Management System** that performs full **CRUD operations**.  
 Users can add, update, view, and delete student records through a responsive interface.
@@ -133,7 +133,7 @@ https://notification-system-assignment-5.vercel.app/
 
 ---
 
-## 6️⃣ Assignment 6
+## 6️⃣ Crud with zustand and supabase
 
 A project demonstrating advanced **React / Next.js concepts** including routing and data fetching.
 
@@ -151,7 +151,7 @@ https://assignment6-qsa2.vercel.app/
 
 ---
 
-## 7️⃣ Assignment 1
+## 7️⃣ Todolist and stopwatch
 
 A foundational project that demonstrates **basic React and Next.js concepts**.
 
@@ -168,7 +168,7 @@ https://assignment1-rnse.vercel.app/
 
 ---
 
-## 8️⃣ Assignment 2
+## 8️⃣ Weather App 
 
 A continuation of React fundamentals focusing on **state management and UI interaction**.
 
