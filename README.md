@@ -1,8 +1,8 @@
-# 🚀 React & Next.js Assignments Portfolio
+# 🚀 React & Next.js Portfolio
 
-Welcome to the **React & Next.js Assignments Repository**.
+Welcome to the **React & Next.js Repository**.
 
-This repository contains a collection of **front-end projects and assignments** built using **React.js, Next.js, and TypeScript**. Each project focuses on different frontend development concepts — from **basic component structure** to **advanced state management, CRUD operations, and interactive UI design**.
+This repository contains a collection of **front-end projects** built using **React.js, Next.js, and TypeScript**. Each project focuses on different frontend development concepts — from **basic component structure** to **advanced state management, CRUD operations, and interactive UI design**.
 
 These projects demonstrate practical knowledge of **modern React development and real-world application features**.
 
